@@ -1,4 +1,24 @@
-*
-**/*
+/*
 
 !.gitignore
+!.gitmodule
+
+!/etc/pf.conf
+!/etc/rc.conf
+
+!/usr
+/usr/*
+
+!/usr/local
+/usr/local/*
+
+!/usr/local/etc/
+/usr/local/etc/*
+
+!/usr/local/etc/lpmng
+/usr/local/etc/lpmng/openvpn/key
+
+!/usr/local/etc/rc.d/
+/usr/local/etc/rc.d/*
+
+!/usr/local/etc/rc.d/lpmng-fw-agent

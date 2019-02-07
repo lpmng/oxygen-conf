@@ -1,0 +1,3 @@
+[submodule "lpmng-fw-agent"]
+	path = /opt/lpmng-fw-agent
+	url = https://github.com/lpmng/lpmng-fw-agent
